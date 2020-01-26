@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.enact.design/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Enact design"
 theme = "ananke"
